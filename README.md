@@ -95,9 +95,9 @@ Provides a three-dimensional view (time, frequency, and intensity) of the audio 
 ```
 AudioSignalPlotter/
 │
-├── AudioSignalPlotter.mlapp    # Main application file
-├── README.md                    # Project documentation
-└── assets/                      # Screenshots and media (optional)
+├──Final project.zip    # Main application file
+├── README.md           # Project documentation
+
 ```
 
 ---
